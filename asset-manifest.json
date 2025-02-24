@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/employee-dashboard/static/css/main.4d73f467.css",
+    "main.js": "/employee-dashboard/static/js/main.1758668f.js",
+    "index.html": "/employee-dashboard/index.html",
+    "main.4d73f467.css.map": "/employee-dashboard/static/css/main.4d73f467.css.map",
+    "main.1758668f.js.map": "/employee-dashboard/static/js/main.1758668f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d73f467.css",
+    "static/js/main.1758668f.js"
+  ]
+}
