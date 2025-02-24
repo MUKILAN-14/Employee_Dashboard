@@ -2,7 +2,7 @@
   "name": "employee-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mukilan-14.github.io/employee-dashboard",
+  "homepage": "https://MUKILAN-14.github.io/Employee_Dashboard",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
